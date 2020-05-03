@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: da2f468f26eadb94585c4393aeff64b8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Peddler_Idle
+    21300002: Peddler_Active_0
+    21300004: Peddler_Active_1
+    21300006: Peddler_Active_2
+    21300008: Peddler_Active_3
+    21300010: Peddler_Active_4
+    21300012: Peddler_Active_5
+    21300014: Peddler_Active_6
+    21300016: Peddler_Active_7
+    21300018: Peddler_Active_8
+    21300020: Peddler_Active_9
+    21300022: Peddler_Active_10
+    21300024: Peddler_Active_11
+    21300026: Peddler_Active_12
+    21300028: Peddler_Active_18
+    21300030: Peddler_Active_19
+    21300032: Peddler_Active_21
+    21300034: Peddler_Active_22
+    21300036: Peddler_Active_13
+    21300038: Peddler_Active_14
+    21300040: Peddler_Active_15
+    21300042: Peddler_Active_16
+    21300044: Peddler_Active_17
+    21300046: Peddler_Active_20
+    21300048: peddler_52
+    21300050: Peddler_Active_25
+    21300052: Peddler_Active_24
+    21300054: Peddler_Active_23
+    21300056: Peddler_Active_26
+    21300058: Peddler_Active_27
+    21300060: Peddler_Active_28
+    21300062: Peddler_Active_29
+    21300064: peddler_109
+    21300066: Peddler_Active_30
+    21300068: Peddler_Active_31
+    21300070: Peddler_Active_32
+    21300072: Peddler_Active_33
+    21300074: Peddler_Active_34
+    21300076: peddler_120
+    21300078: Peddler_Active_35
+    21300080: Peddler_Active_36
+    21300082: Peddler_Active_37
+    21300084: Peddler_Active_38
+    21300086: Peddler_Active_39
+    21300088: Peddler_Active_40
+    21300090: Peddler_Active_41
+    21300092: Peddler_Active_42
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peddler_Idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 440
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286220a19949e8142b28c0de4e762c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 440
+        width: 27
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165a2dda9ad4ea4aaa7597523ed0ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 440
+        width: 28
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f66adb49549dad46825e22ccafdd83d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 440
+        width: 28
+        height: 56
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca0f8c1039043f41914795aa6e50769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 440
+        width: 28
+        height: 56
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8612e92362ce4a8a4156970d957c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 440
+        width: 28
+        height: 56
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e505be053e9324093f5613b9ebd637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 440
+        width: 28
+        height: 56
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d82b0c80548324eb8776f8cd6fce01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 440
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740a34bc8b0b42c4aa7f983c8956802f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 440
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12152d3dab2d28648b341e098be2ca59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 67
+        height: 50
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9267788720afd241a0b7bedcf460fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 439
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fe8eb99ee5f2141819bad466d4d450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 440
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.36, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9616b3ca894d4f88cb52809e12adf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 440
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.36, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75b1ea1c1fbb7a439458a720c90a4f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 440
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.37, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd79ce1c66f5074fa0a6fb11cafe8d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 343
+        width: 93
+        height: 89
+      alignment: 9
+      pivot: {x: 0.83, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd38cca978cda242b2518de4705b4b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_19
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 343
+        width: 93
+        height: 89
+      alignment: 9
+      pivot: {x: 0.83, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e88db99334194bb1441bfbac7b1ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_21
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 344
+        width: 98
+        height: 71
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c4bb6ad5281644a9df414f557c701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_22
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 345
+        width: 101
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09023b3609d9ea41827607cc0cb2b69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 343
+        width: 54
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d362bd853344243a639bbc33592b04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 60
+        height: 66
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933ccb0331f5424fa931c5094815a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 343
+        width: 60
+        height: 85
+      alignment: 9
+      pivot: {x: 0.82, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611ecda71fd46040b9db3947beec7a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 343
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: 0.87, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9f6fd49c2dea42bab480b9293f007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 343
+        width: 88
+        height: 87
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5adaf487d8454083c581dc53e8d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 343
+        width: 77
+        height: 72
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab9d2fb5dbb69e47acd01ed5bc7e89d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 234
+        width: 106
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f2080697197148ba4fc67466f87c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 233
+        width: 106
+        height: 77
+      alignment: 9
+      pivot: {x: 0.52, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaccf58076c4dd84fa0fb5b189ee7c6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 236
+        width: 100
+        height: 73
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f843a6efc9dbe0f47b8f6e339df0657c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 233
+        width: 108
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3fd3e7e570aad47ac72acd96d35146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 229
+        width: 129
+        height: 79
+      alignment: 9
+      pivot: {x: 0.57, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda78a405c77ed4f8f8689abf2812b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 225
+        width: 130
+        height: 77
+      alignment: 9
+      pivot: {x: 0.57, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bdd168da7ab8649b0a39e3c143e25c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_29
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 223
+        width: 136
+        height: 76
+      alignment: 9
+      pivot: {x: 0.65, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a95d5728036a4580ddaf5b733b9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 139
+        width: 149
+        height: 57
+      alignment: 9
+      pivot: {x: 0.57, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdcf0fafbd0c1e4f81b4ac65d499445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 129
+        width: 134
+        height: 65
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb85367af3d794abee1248fbc42704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 134
+        width: 106
+        height: 59
+      alignment: 9
+      pivot: {x: 0.45, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9c41f960f2de84bad6f82b96d167ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 132
+        width: 108
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b309a8b0a9caef4980b04cce9452ab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 137
+        width: 116
+        height: 48
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346790e4dbc1c684cbe9ec2e65a532bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_35
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 135
+        width: 122
+        height: 62
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249dcba6792f19940902d44975a04f8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 123
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f365ae926424347843bf24000e7765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 30
+        width: 104
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2266ebbfe2d2a46b887153e9345dd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 30
+        width: 141
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e8ff8cd8970b94f845e3605718c8b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 128
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7796ce366f4b948bc8ec41a0600378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_40
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 31
+        width: 121
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df5a3f474b03a4982adf64451930e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_41
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 29
+        width: 121
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca7833116bbfc542803f63f04720f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peddler_Active_42
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 30
+        width: 117
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5cb2098c0153c44a2b209faa0acd6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e463b0e95cba4b4469f388f474c7047e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

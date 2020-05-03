@@ -1,0 +1,4834 @@
+fileFormatVersion: 2
+guid: 28e1ef1ffd47fb54db51ea2b367926f7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Aladdin_Idle
+    21300002: Aladdin_Begin_Waiting
+    21300004: Aladdin_Waiting_0
+    21300006: Aladdin_Waiting_1
+    21300008: Aladdin_Waiting_2
+    21300010: Aladdin_Waiting_3
+    21300012: Aladdin_Waiting_4
+    21300014: Aladdin_Apple_Splash_1
+    21300016: Aladdin_Apple_Splash_2
+    21300018: Aladdin_Apple_Splash_3
+    21300020: Aladdin_Apple_Splash_4
+    21300022: Aladdin_Apple
+    21300024: Aladdin_Apple_Splash_0
+    21300026: Aladdin_Begin_Bored_0
+    21300028: Aladdin_Begin_Bored_1
+    21300030: Aladdin_Begin_Bored_2
+    21300032: Aladdin_Begin_Bored_3
+    21300034: Aladdin_Bored_0
+    21300036: Aladdin_Bored_1
+    21300038: Aladdin_Bored_2
+    21300040: Aladdin_Bored_3
+    21300042: Aladdin_Bored_4
+    21300044: Aladdin_Bored_5
+    21300046: Aladdin_Bored_6
+    21300048: Aladdin_Bored_7
+    21300050: Aladdin_Bored_8
+    21300052: Aladdin_Bored_9
+    21300054: Aladdin_Bored_10
+    21300056: Aladdin_Bored_15
+    21300058: Aladdin_Bored_16
+    21300060: Aladdin_Bored_23
+    21300062: Aladdin_Bored_11
+    21300064: Aladdin_Bored_12
+    21300066: Aladdin_Bored_13
+    21300068: Aladdin_Bored_14
+    21300070: Aladdin_Bored_20
+    21300072: Aladdin_Bored_21
+    21300074: Aladdin_Bored_22
+    21300076: Aladdin_Bored_24
+    21300078: Aladdin_Bored_25
+    21300080: Aladdin_Bored_26
+    21300082: Aladdin_Bored_27
+    21300084: Aladdin_Bored_17
+    21300086: Aladdin_Bored_18
+    21300088: Aladdin_Bored_19
+    21300090: Aladdin_Idle_Throw_0
+    21300092: Aladdin_Idle_Throw_1
+    21300094: Aladdin_Idle_Throw_2
+    21300096: Aladdin_Idle_Throw_3
+    21300098: Aladdin_Idle_Throw_4
+    21300100: Aladdin_Idle_Throw_5
+    21300102: Aladdin_Down_Throw_0
+    21300104: Aladdin_Down_Throw_1
+    21300106: Aladdin_Down_Throw_2
+    21300108: Aladdin_Down_Throw_3
+    21300110: Aladdin_Down_Throw_4
+    21300112: Aladdin_Attack_1
+    21300114: Aladdin_Attack_2
+    21300116: Aladdin_Attack_3
+    21300118: aladdin_73
+    21300120: Aladdin_Attack_0
+    21300122: Aladdin_Attack_4
+    21300124: Aladdin_Up_Attack_0
+    21300126: Aladdin_Up_Attack_1
+    21300128: Aladdin_Up_Attack_2
+    21300130: Aladdin_Up_Attack_3
+    21300132: Aladdin_Up_Attack_4
+    21300134: Aladdin_Up_Attack_5
+    21300136: Aladdin_Up_Attack_6
+    21300138: Aladdin_Up_Attack_7
+    21300140: Aladdin_Up_Attack_8
+    21300142: Aladdin_Up_Attack_9
+    21300144: Aladdin_Up_Attack_10
+    21300146: Aladdin_Up_Attack_11
+    21300148: Aladdin_LookUp_0
+    21300150: Aladdin_LookUp_1
+    21300152: Aladdin_LookUp_2
+    21300154: Aladdin_Look_Down_0
+    21300156: Aladdin_Look_Down_1
+    21300158: Aladdin_Look_Down_2
+    21300160: Aladdin_Look_Down_3
+    21300162: Aladdin_Down_Attack_0
+    21300164: Aladdin_Down_Attack_1
+    21300166: Aladdin_Down_Attack_2
+    21300168: Aladdin_Down_Attack_3
+    21300170: Aladdin_Down_Attack_4
+    21300172: Aladdin_Down_Attack_5
+    21300174: Aladdin_Down_Attack_6
+    21300176: Aladdin_Begin_Moving_Jump
+    21300178: Aladdin_Moving_Jump_0
+    21300180: Aladdin_Moving_Jump_1
+    21300182: Aladdin_Moving_Jump_2
+    21300184: Aladdin_Moving_Jump_4
+    21300186: Aladdin_Moving_Jump_5
+    21300188: Aladdin_Moving_Jump_6
+    21300190: aladdin_109
+    21300192: Aladdin_End_Jump
+    21300194: Aladdin_Begin_Stand_Jump
+    21300196: Aladdin_Stand_Jump_0
+    21300198: Aladdin_Stand_Jump_1
+    21300200: Aladdin_Stand_Jump_2
+    21300202: Aladdin_Stand_Jump_3
+    21300204: Aladdin_Stand_Jump_4
+    21300206: Aladdin_Stand_Jump_5
+    21300208: Aladdin_Stand_Jump_6
+    21300210: Aladdin_Stand_Jump_7
+    21300212: Aladdin_Stand_Jump_8
+    21300214: aladdin_121
+    21300216: aladdin_122
+    21300218: aladdin_123
+    21300220: aladdin_124
+    21300222: aladdin_125
+    21300224: aladdin_126
+    21300226: aladdin_127
+    21300228: aladdin_128
+    21300230: aladdin_129
+    21300232: aladdin_130
+    21300234: aladdin_131
+    21300236: aladdin_132
+    21300238: aladdin_133
+    21300240: aladdin_134
+    21300242: aladdin_135
+    21300244: aladdin_136
+    21300246: aladdin_137
+    21300248: aladdin_138
+    21300250: aladdin_139
+    21300252: aladdin_140
+    21300254: aladdin_141
+    21300256: aladdin_142
+    21300258: aladdin_143
+    21300260: aladdin_144
+    21300262: aladdin_145
+    21300264: aladdin_146
+    21300266: aladdin_147
+    21300268: aladdin_148
+    21300270: aladdin_149
+    21300272: aladdin_150
+    21300274: aladdin_151
+    21300276: aladdin_152
+    21300278: aladdin_153
+    21300280: aladdin_154
+    21300282: aladdin_155
+    21300284: aladdin_156
+    21300286: aladdin_157
+    21300288: aladdin_158
+    21300290: aladdin_159
+    21300292: aladdin_160
+    21300294: aladdin_161
+    21300296: aladdin_162
+    21300298: aladdin_163
+    21300300: aladdin_164
+    21300302: aladdin_165
+    21300304: aladdin_166
+    21300306: aladdin_167
+    21300308: aladdin_168
+    21300310: aladdin_169
+    21300312: aladdin_170
+    21300314: aladdin_171
+    21300316: aladdin_172
+    21300318: aladdin_173
+    21300320: Aladdin_Jump_Throw_0
+    21300322: Aladdin_Jump_Throw_1
+    21300324: Aladdin_Jump_Throw_2
+    21300326: Aladdin_Jump_Throw_3
+    21300328: Aladdin_Jump_Throw_4
+    21300330: Aladdin_Jump_Attack_0
+    21300332: Aladdin_Jump_Attack_1
+    21300334: Aladdin_Jump_Attack_2
+    21300336: Aladdin_Jump_Attack_3
+    21300338: Aladdin_Jump_Attack_4
+    21300340: aladdin_184
+    21300342: Aladdin_Jump_Attack_5
+    21300344: Aladdin_Flexbile_Baton_Jump_0
+    21300346: Aladdin_Flexbile_Baton_Jump_1
+    21300348: Aladdin_Flexbile_Baton_Jump_2
+    21300350: Aladdin_Flexbile_Baton_Jump_3
+    21300352: Aladdin_Flexbile_Baton_Jump_4
+    21300354: Aladdin_Flexbile_Baton_Jump_5
+    21300356: Aladdin_Flexbile_Baton_Jump_6
+    21300358: Aladdin_Flexbile_Baton_Jump_7
+    21300360: aladdin_194
+    21300362: Aladdin_Running_0
+    21300364: Aladdin_Running_1
+    21300366: Aladdin_Running_2
+    21300368: Aladdin_Running_3
+    21300370: Aladdin_Running_4
+    21300372: Aladdin_Running_5
+    21300374: Aladdin_Running_6
+    21300376: Aladdin_Running_7
+    21300378: Aladdin_Running_8
+    21300380: Aladdin_Running_9
+    21300382: Aladdin_Running_10
+    21300384: Aladdin_Running_11
+    21300386: aladdin_207
+    21300388: aladdin_208
+    21300390: aladdin_209
+    21300392: aladdin_210
+    21300394: aladdin_211
+    21300396: aladdin_212
+    21300398: aladdin_213
+    21300400: aladdin_214
+    21300402: aladdin_215
+    21300404: aladdin_216
+    21300406: aladdin_217
+    21300408: Aladdin_Climb_0
+    21300410: Aladdin_Climb_1
+    21300412: Aladdin_Climb_2
+    21300414: Aladdin_Climb_3
+    21300416: Aladdin_Climb_4
+    21300418: Aladdin_Climb_5
+    21300420: Aladdin_Climb_6
+    21300422: Aladdin_Climb_7
+    21300424: Aladdin_Climb_8
+    21300426: Aladdin_Climb_9
+    21300428: aladdin_228
+    21300430: aladdin_229
+    21300432: aladdin_230
+    21300434: aladdin_231
+    21300436: aladdin_232
+    21300438: aladdin_233
+    21300440: aladdin_234
+    21300442: aladdin_235
+    21300444: aladdin_236
+    21300446: aladdin_237
+    21300448: aladdin_238
+    21300450: aladdin_239
+    21300452: aladdin_240
+    21300454: aladdin_241
+    21300456: aladdin_242
+    21300458: Aladdin_Climb_Throw_0
+    21300460: Aladdin_Climb_Throw_1
+    21300462: Aladdin_Climb_Throw_2
+    21300464: Aladdin_Climb_Throw_3
+    21300466: Aladdin_Climb_Throw_4
+    21300468: Aladdin_Climb_Attack_0
+    21300470: Aladdin_Climb_Attack_1
+    21300472: Aladdin_Climb_Attack_2
+    21300474: Aladdin_Climb_Attack_3
+    21300476: Aladdin_Climb_Attack_4
+    21300478: aladdin_253
+    21300480: Aladdin_Climb_Attack_5
+    21300482: Aladdin_Climb_Attack_6
+    21300484: aladdin_256
+    21300486: aladdin_257
+    21300488: Aladdin_Climb_Jump_0
+    21300490: Aladdin_Climb_Jump_1
+    21300492: Aladdin_Climb_Jump_2
+    21300494: Aladdin_Climb_Jump_3
+    21300496: Aladdin_Climb_Jump_4
+    21300498: Aladdin_Climb_Jump_5
+    21300500: Aladdin_Climb_Jump_6
+    21300502: Aladdin_Climb_Jump_7
+    21300504: Aladdin_Climb_Jump_8
+    21300506: aladdin_267
+    21300508: aladdin_268
+    21300510: aladdin_269
+    21300512: aladdin_270
+    21300514: aladdin_271
+    21300516: aladdin_272
+    21300518: aladdin_273
+    21300520: aladdin_274
+    21300522: aladdin_275
+    21300524: aladdin_276
+    21300526: aladdin_277
+    21300528: aladdin_278
+    21300530: aladdin_279
+    21300532: aladdin_280
+    21300534: aladdin_281
+    21300536: aladdin_282
+    21300538: aladdin_283
+    21300540: aladdin_284
+    21300542: aladdin_285
+    21300544: aladdin_286
+    21300546: aladdin_287
+    21300548: aladdin_288
+    21300550: aladdin_289
+    21300552: Aladdin_Take_Damage_0
+    21300554: Aladdin_Take_Damage_1
+    21300556: Aladdin_Take_Damage_2
+    21300558: Aladdin_Take_Damage_3
+    21300560: Aladdin_Take_Damage_4
+    21300562: Aladdin_Take_Damage_5
+    21300564: Aladdin_Death_0
+    21300566: Aladdin_Death_1
+    21300568: Aladdin_Death_2
+    21300570: Aladdin_Death_3
+    21300572: Aladdin_Death_4
+    21300574: Aladdin_Death_5
+    21300576: Aladdin_Death_6
+    21300578: Aladdin_Death_7
+    21300580: Aladdin_Death_8
+    21300582: Aladdin_Death_9
+    21300584: Aladdin_Death_10
+    21300586: Aladdin_Death_11
+    21300588: Aladdin_Death_12
+    21300590: Aladdin_Death_18
+    21300592: Aladdin_Death_19
+    21300594: Aladdin_Death_20
+    21300596: Aladdin_Death_21
+    21300598: Aladdin_Death_22
+    21300600: aladdin_314
+    21300602: Aladdin_Death_13
+    21300604: Aladdin_Death_14
+    21300606: Aladdin_Death_15
+    21300608: Aladdin_Death_16
+    21300610: Aladdin_Death_17
+    21300612: aladdin_320
+    21300614: Aladdin_Death_23
+    21300616: Aladdin_Death_24
+    21300618: Aladdin_Death_25
+    21300620: Aladdin_Death_26
+    21300622: Aladdin_Death_27
+    21300624: aladdin_326
+    21300626: aladdin_327
+    21300628: aladdin_328
+    21300630: Aladdin_Respawn_1
+    21300632: Aladdin_Respawn_6
+    21300634: Aladdin_Respawn_7
+    21300636: Aladdin_Respawn_8
+    21300638: Aladdin_Respawn_9
+    21300640: Aladdin_Respawn_10
+    21300642: Aladdin_Respawn_11
+    21300644: Aladdin_Respawn_12
+    21300646: Aladdin_Respawn_13
+    21300648: aladdin_338
+    21300650: aladdin_339
+    21300652: Aladdin_Respawn_5
+    21300654: aladdin_341
+    21300656: Aladdin_Respawn_0
+    21300658: Aladdin_Respawn_2
+    21300660: Aladdin_Respawn_3
+    21300662: Aladdin_Respawn_4
+    21300664: aladdin_346
+    21300666: aladdin_347
+    21300668: aladdin_348
+    21300670: aladdin_349
+    21300672: aladdin_350
+    21300674: aladdin_351
+    21300676: aladdin_352
+    21300678: aladdin_353
+    21300680: aladdin_354
+    21300682: aladdin_355
+    21300684: aladdin_356
+    21300686: aladdin_357
+    21300688: aladdin_358
+    21300690: aladdin_359
+    21300692: aladdin_360
+    21300694: aladdin_361
+    21300696: aladdin_362
+    21300698: aladdin_363
+    21300700: aladdin_364
+    21300702: aladdin_365
+    21300704: aladdin_366
+    21300706: aladdin_367
+    21300708: aladdin_368
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aladdin_Idle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2941
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff6c14a1b74b5c4fb2e3ba645d73c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Begin_Waiting
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2942
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dece157bd139944498e3ac130ebb2eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Waiting_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2942
+        width: 40
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b34852160e37c4fbe93f1858f92cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Waiting_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2942
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea90204d7fb0a84d926fc7548abfe52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Waiting_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2943
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664bc584cdf3da4c91922dcd157f584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Waiting_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2944
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d07c412e82ef94aab677d6093c02ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Waiting_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2945
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f8e12aac6d96d4dbc71cb3b784036c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Apple_Splash_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2964
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2747dee4aad4ace4184f504cee2761cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Apple_Splash_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2962
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88a07f23d51c74fbfd1a84159dc51a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Apple_Splash_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2961
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778e704f3eb05c439a283efad463b17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Apple_Splash_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2960
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca1f3b045e61e540a34e218c74b7c9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Apple
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2969
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d262341740046c439358d2e845fa204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Apple_Splash_0
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2967
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a37ff4ce96711442bf823487bc9d3f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Begin_Bored_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2865
+        width: 40
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038a54bb1fbc0848ae04b063a1e2dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Begin_Bored_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2866
+        width: 61
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f8bd866e52b243a1a036459bd1984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Begin_Bored_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2866
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a424e056aed413d4bad875104a61ef2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Begin_Bored_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2866
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfb20e0142251a4a84677639ecabaaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2770
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275d9103de71b140a5a6f505b1ff7b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2770
+        width: 36
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690d979d4aff2b4886e2de2d5efdb65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2770
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06298ce7d8bdc4f4c8925829fe1658f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2770
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767b69382ca90f468fce36f7399ea47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2770
+        width: 43
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c625499f48ce44f90215b0fefed14a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2770
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c41697cb0239f42ac3c4577c05b866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2770
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224992544084ab4fa249324b791916a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2770
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b39d28a6d709469a5a810d3686fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2770
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc6bbd98d303147842da10e664a39d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2771
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222e7d773f5d2c4ca11ca9731a89fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2769
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c1a7e2fccdf24da4fc601402ec9a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2675
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67de6648e0930664ba0541a84880702d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2676
+        width: 43
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1eb2816da13d468e98103f3539449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2676
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18178a2c6a7f0d044b8c39ac9d817220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2675
+        width: 35
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b806e6a7f3524b953c0b25be04daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2675
+        width: 41
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a30c98b4f42fc499f0ccdb9ebf795b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2675
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fdd8cd3f47a3e4a86f3d08bef5f4c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2674
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e63663ecd63f4e9bcece01e534994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2676
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63032419e72554545b1137343ee2c135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2676
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb972a1ef950dad41809d8da0303ddf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2676
+        width: 37
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552fb6524fb13a428ea88dc0483f37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2676
+        width: 43
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da1fc36960fff438302d24fd306600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2676
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599ccf202511c5438849d2d9fc8a28a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2676
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fc5b2decd967943b80dd54ae4f9f71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_27
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2676
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb430d354b611574b860775b53399da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2676
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59991acffdc91b40a084b05f94ddd4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2676
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b458ddfa46a8e146966ae682b865e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Bored_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2677
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b106cfb839a13f4d82308e2056d971c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Idle_Throw_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2594
+        width: 43
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8413b3468c7a1014f9a9a6bbdb9fdcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Idle_Throw_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2594
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d31e93d6e572df4baef83500077d50c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Idle_Throw_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2594
+        width: 39
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa2b3671bdce8c4a9094cc1ccb11ae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Idle_Throw_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2594
+        width: 47
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c11de6165eb3c46b452e186ee96dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Idle_Throw_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2594
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241fde71d16b9d74394a2d363b105632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Idle_Throw_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2594
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063939a2d2e6ef44a0c701cce45cf37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Throw_0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2594
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b11cc89233c73429ddf4ccd1f312d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Throw_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2594
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb941d9be58704c8cda698ffefb39f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Throw_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2590
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0497bc76e7ecfa479f3c582100b3c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Throw_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2594
+        width: 83
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e4ae7821f8e8b428ba45f1209364bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Throw_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2593
+        width: 58
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7b65f4a113ef46b9e55ded62d82a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2500
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b8c175a7e06a47b10e865404f6b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2500
+        width: 46
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5adfb8ea5c0d046ab8c066f11b59fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2500
+        width: 82
+        height: 69
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454875f41d1cb2468ff37fbfc0c4400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2500
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095d4cf80fda124f9d245496090ad54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2500
+        width: 52
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd45bd389db82f4fbbd4991e3dea72e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2391
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b41bdc2c0da8c043b70a4ade40095a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2391
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c0db1f0045de04baeb5d9a4339aa85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2390
+        width: 69
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c8c071dde84349ab30cdce17d78a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2390
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e247a6bcd8379d8428db96c7cdfd76d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2391
+        width: 48
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd4b63efc9e304bac03874ea7900e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2391
+        width: 55
+        height: 49
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4252db629c229a438e80655396bb091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2391
+        width: 75
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497717c0dd5f47459e6bdba3475afb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2391
+        width: 55
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f13f038caabd6409a36850088ac282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2392
+        width: 50
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a19e8dfbd7e7814c86a4f95fcd7cb73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2392
+        width: 52
+        height: 68
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6de3bb400ed44490832445c6908de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2392
+        width: 54
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc703a3734acee84fb6a87d2f3cd9a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Up_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2392
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe50aeb5dde3714e816c89178e96c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_LookUp_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2295
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c0479226f3e34bb016ce87aa92cbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_LookUp_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2295
+        width: 46
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63cef3f20b6c7143ab775b47be4a01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_LookUp_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2295
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4febf2af570d2294ca0ad27bb48e3847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Look_Down_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2295
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbfb3732772ae94a8bae7ddccf93302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Look_Down_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2295
+        width: 49
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2de0129deff4843840522c75029a66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Look_Down_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2295
+        width: 55
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d37d80cba9f5b44ae0179993d97068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Look_Down_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2293
+        width: 54
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d692ca2759c26419a951b3b25edb1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2222
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578bf472dba7bd44a8e429b7fe9967b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2222
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3433a645624614647a78be190215a9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2222
+        width: 72
+        height: 34
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa93f01e8bc5944db3f75e4076fb3d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2222
+        width: 93
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb89c40935be646a24290b0f935105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2222
+        width: 85
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3f3389fcf2a745b80fa366ca95cd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2222
+        width: 72
+        height: 34
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0641b808b8ede40b79b69bc37be21f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Down_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2222
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7510a2f5002a724d93d5c74e14228e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Begin_Moving_Jump
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2127
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1716b266d9200fd428985ce50ae8bed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Moving_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2116
+        width: 45
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5d2f0e6eb3a44b84dfec45e9d9af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Moving_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2132
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb2d0d28ff8fea40a31a9161d0c0e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Moving_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2135
+        width: 58
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653bfd9a13508d4381d1f893e27a40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Moving_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2131
+        width: 61
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34140ff265e01b144a4bf724d0e9a787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Moving_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2130
+        width: 58
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352439d4ddfcc9b4eb2bfa6eb5d07d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Moving_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2129
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b075e717acef443897e7ce5f4bbdb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_109
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2109
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb2c5b165d3958449d185251bd99bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_End_Jump
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2112
+        width: 60
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8301ba0a5c5794aaace517dea0fa93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Begin_Stand_Jump
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2005
+        width: 60
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a822171f22844ba4e7056f29c72a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2005
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeef47e2bbd842540adcfad0c28e942d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2005
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042250afbe1b9442a4034e786c752fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2002
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0673d06813edbb24cad7e0014604e2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2001
+        width: 51
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0ac9883706144b941a87e8be5be4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2000
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a5eb11879003d4fb51860f93989a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1998
+        width: 35
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ea69f8a278074180c7fddd54f3275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1994
+        width: 34
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1772ce1e44bb6f4197a9435ec2d5070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1992
+        width: 34
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935a23dfe3205140aeec5b8d15e2e75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Stand_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1990
+        width: 34
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1728a8df3c974096d81a03ac514f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Throw_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1809
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09622672f6501cf4fa768c3692cc2f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Throw_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1810
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727aea6ed66fcbf43a82c3033fac4daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Throw_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1808
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668910bafdbe4d4d9e4c12a202eda32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Throw_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1808
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd4177a5954b047aac7c14140f22c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Throw_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1805
+        width: 41
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada31581c3a15c647b2c9764ff3e2f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1731
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c8e3090146bf4a974c11bfec1d1dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1735
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c274b6f2e9fe7469d0e467feca13c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1718
+        width: 48
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3930b9a9d4f13d46942d50d68cb8aeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1728
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ee4f0e6991a445b751046c49d8afc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1732
+        width: 84
+        height: 61
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f30311e8445841bd475b650a86f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Jump_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1720
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b4290ea37b2b42b1d7856cc86476b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1640
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad8c0ad4605dd4694351b49de1b1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1654
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeb2713c4015f64eba4c03072a93edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1654
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b39092aaa1ffc409515912967462be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1648
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1633dad84ada54d9501395c8c30361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1652
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79d8861ff194d4993a5466e66345c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1652
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba193c0a7416548afe4dd0f9e44e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1652
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1fd933f11f17446b984dd1ff421495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Flexbile_Baton_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1650
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36530d2eaf031241b8b528a024a9551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1559
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a681ee1c8e014ca3e0374b87c6746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1558
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a099e140741abd4db665e973bc9c655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1559
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea775349d4d2a428810c86a5bb5313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1559
+        width: 52
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0cab89fd26c749accc44fc0c49a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1559
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf2f5ead2b101428e9342e05cd30cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1559
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311835f994b39945b502b9ac433b5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1559
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0127d32d4b7ccf64c93532438f8280eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1559
+        width: 35
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f65b17d718c804c8ea3c2825d2295d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1559
+        width: 49
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bea7111892bed49ba87d3d001739a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1559
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7dec1ca2817464bbf063c0e84f7d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1558
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c54e1c4c680ad4e865babe1720f153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Running_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1557
+        width: 44
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8c63aa6af088d43864d236c7bfe857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1369
+        width: 29
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e14d553851aab4887899af9bc4cdc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1367
+        width: 28
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac3c781d5315f946ada9258a16dc481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1369
+        width: 28
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eb2602b6e920b4f9de18b49bc06d4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1378
+        width: 43
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369a14552bd8fe48b7f84f8fda0fd28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1378
+        width: 32
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe6cc13a75df5428690b708d237b1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1373
+        width: 29
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6226bfaea1c7342920c6790bfb30da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1371
+        width: 28
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13f16c082329a4386fd615e91d92fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1377
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07b6a54581786f40855ddfa27adcbed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1378
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba4b14ea511a54b80937caaf1952eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1374
+        width: 28
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a372b3c988bd294bb0940e9a417853f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 929
+        width: 35
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268921d887efb6b408b91e4d2cb7844d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 922
+        width: 26
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c514e2ffee448c640a9ae71580c473bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 926
+        width: 37
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36da34963d5dacb4b83054cfa41b2c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 933
+        width: 49
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1db3edcd5c9aa448a8e5b435e1fb96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 942
+        width: 60
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32679ef614db5884a8dac081d98551a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 954
+        width: 60
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a67301df00093479b8e400b3f8d0fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 948
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077baed8020d1db44a87154fa1eb308c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 933
+        width: 48
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e1e1e6b3204ab48aa230651aba7ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Climb_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 930
+        width: 45
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c957f479e57a39349916ef43c97e40db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_267
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 839
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423315f97088e646a5ae9932348031c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_268
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 839
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d9c929a75bb44798b7a5de489f6a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_269
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 838
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c5a73b3a172f04fb235da58598f8a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_270
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 838
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4001b9a5bb83af4180f26104c385755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_271
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 836
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1ecf28d68010342a2219210ac86f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_272
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 835
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b17ad4719a062b44baaab989753c46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_273
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 835
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209492a60591a194ba50050a416ae31c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_274
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 835
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24f0e5276b24a4ea0fc11dc3b7ba3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_275
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 833
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f2732c98fbbec468e78085e5404d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_284
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 666
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf1d135531178842b835a17aeecc674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_285
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 666
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeeba41b51f9c641a16068cdd8bc7d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_286
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 666
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f115cba484eb0c4da404e8557b9602c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_287
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 666
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b373169e8f9de4ebd6ad4cdaebfe9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_288
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 667
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff80c00fa93cf954f97c0c7c881eb806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aladdin_289
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 666
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b412c8d919e29a4c9c3ffd94fce27c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Take_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 589
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902e33dc96a7cf9428d22759f5ab9b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Take_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 589
+        width: 56
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4654ca710ac964092e302f3bfec6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Take_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 590
+        width: 60
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cc8b6f171fed340906690dbe015671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Take_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 592
+        width: 80
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68321083fb20a641b24cb0f2dd88117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Take_Damage_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 592
+        width: 61
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9c5743aa0e7c46a8289d10870fb4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Take_Damage_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 593
+        width: 59
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f242c3f4bc42641bc8c2c8b5aa772e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 515
+        width: 78
+        height: 49
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506594e632b456242a5b98522e8d2a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 515
+        width: 62
+        height: 52
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0a1b9e972a8fb47a3d313b97b3cab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 515
+        width: 46
+        height: 59
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a33754b3bea5498924fd9c90f8316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 515
+        width: 46
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5b531fdf340274e99ad56d4ae1e3bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 516
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd363f7746a90574d8b9148269180857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 516
+        width: 41
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e46d1bbb52394a827ac52aa5fbca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 516
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea98497d6aa3524c9af00e9efe5b330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 516
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f638149e973945247af165b6b03eae3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_8
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 517
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7aa9c144cebf1418052866fb4872bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 515
+        width: 45
+        height: 56
+      alignment: 9
+      pivot: {x: 0.65, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3c84fc31d560441b03c4f58597a838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 517
+        width: 42
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e726de610d2d942abd2500fc3307b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 516
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6eb48ff8717334a8fc2af90da6cc19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 515
+        width: 41
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab48952cf1f38f4785420d174ca0ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 399
+        width: 76
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fa60b192f155648b37c3167ee32924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 398
+        width: 77
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa87f892312758498fa4aedd1034965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 398
+        width: 75
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d84d3ea25b3220459e27f0e42596974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_21
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 398
+        width: 69
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a689e6ea740648b221a417ca14f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_22
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 398
+        width: 67
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e14a9dedacfb4ea37902205dd9af6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 405
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b45e33abd9c0e44a6a721c34d26254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 405
+        width: 38
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c48249ba30cebc46bacd98bf26499a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 405
+        width: 44
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d09edb821569d047ab901a5419fdaed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 405
+        width: 62
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34508d23e2109a4e80b2b5c685c6a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 405
+        width: 62
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e773ef2e183c84880ebf2954e322bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 397
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1392ece3c201a4ca2b351c04852fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 395
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3710cbcf2ccbae48b2b16003fe8e20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_25
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 395
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcd0a4fa058d249828367b4d208e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_26
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 393
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9efef3c315c1014ca085148bf6b5b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Death_27
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 393
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273994391bd4524faeaaf705c965826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 231
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34bdfbecff41e94d91f14c1d21dfb13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 231
+        width: 38
+        height: 67
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a901772205327469585b0bb9a270e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 231
+        width: 37
+        height: 81
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c91b2fbf9bdf9a48b68e4b2c110c80a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 228
+        width: 42
+        height: 84
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddf0a2b6090f2442926ad098db99b3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 231
+        width: 53
+        height: 87
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d828790836914fb74c55d66f47a72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 231
+        width: 43
+        height: 100
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a60b082117fd9340b285ca58910e357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 231
+        width: 50
+        height: 115
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aab311333ac6347bb20484caa9421c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_12
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 232
+        width: 45
+        height: 135
+      alignment: 9
+      pivot: {x: 0.77, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d688b2b9eb2e4f9a8bdfdcbee2d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 228
+        width: 40
+        height: 141
+      alignment: 9
+      pivot: {x: 0.76, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e727330440b3745b798f1e6d2ae75b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 231
+        width: 27
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c365b43cf8764bbffc626f49fa7b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 62
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aae6004a2132a54ebc073dfbb9ab322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 231
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47fa666d919004eba7fc3e66be6ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 231
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd91cc53d78c1f4d8f71fe2cb8e770f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aladdin_Respawn_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 231
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241068d5151886244b016cb05d598a95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 005633f0529530c459492a940c2cc0b1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
